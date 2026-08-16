@@ -156,9 +156,9 @@ public class LocalButton : MonoBehaviour
     private void ExitCart()
     {
         cart.tag = "Untagged";
+        cart.GetComponent<ShoppingCart>().enabled = false;
         player.transform.SetParent(originalPlayerParent);
         player.transform.rotation = Quaternion.Euler(0f, 0f, 0f);
-        cart.GetComponent<ShoppingCart>().enabled = true;
         if (playerRigidbody != null)
         {
             playerRigidbody.isKinematic = false;
