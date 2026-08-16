@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CD2D1C06-C728-3D16-A86A-8597ED01B119}</ProjectGuid>
+    <ProjectGuid>{BD37EF8D-B5D8-4B98-50A7-D9588E5DC461}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Common.Path.Editor</AssemblyName>

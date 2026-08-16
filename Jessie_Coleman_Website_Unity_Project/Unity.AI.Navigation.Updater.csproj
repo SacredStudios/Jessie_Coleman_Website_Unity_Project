@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{15D374F3-E974-7BB6-AC2C-546AFBC14CBD}</ProjectGuid>
+    <ProjectGuid>{5B6935DD-A84C-3788-8D0C-06B66D3EDAD9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AI.Navigation.Updater</AssemblyName>
@@ -1104,15 +1104,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.AI.Navigation.csproj">
-      <Project>{CEACB41D-0427-4320-AFC9-2ADE7AFFC8F6}</Project>
+      <Project>{8F5CBAE7-CA48-CF11-0AEA-E99075CE907C}</Project>
       <Name>Unity.AI.Navigation</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
-      <Project>{F3BD3CF6-4044-7753-53A0-BBC3469E717A}</Project>
+      <Project>{71849ED5-B152-5D5C-F7A7-E93BE93B8EEF}</Project>
       <Name>Unity.AI.Navigation.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Editor.ConversionSystem.csproj">
-      <Project>{66C8C748-B391-4363-9431-DFDDDBBF1665}</Project>
+      <Project>{0D533E18-D24D-8C6F-A3D7-6861052742ED}</Project>
       <Name>Unity.AI.Navigation.Editor.ConversionSystem</Name>
     </ProjectReference>
   </ItemGroup>

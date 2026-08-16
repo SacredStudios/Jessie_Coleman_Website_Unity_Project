@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{301ED3CE-E261-60AA-9DC3-85F3702BAC70}</ProjectGuid>
+    <ProjectGuid>{81A09C67-9C4C-F0EA-C0A9-9E6A67304542}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Timeline.Editor</AssemblyName>
@@ -1375,7 +1375,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{C068927C-420B-33D7-D7E5-9344578AF52B}</Project>
+      <Project>{92C16E89-9645-1E9B-3873-7FE2B484D4D3}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
   </ItemGroup>

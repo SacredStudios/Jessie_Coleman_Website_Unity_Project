@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9FADE779-6274-F751-04F9-B069FBEEB774}</ProjectGuid>
+    <ProjectGuid>{D023A5D6-7B31-83B3-8057-78AE3C592239}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.IK.Runtime</AssemblyName>
@@ -1087,11 +1087,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InternalAPIEngineBridge.001.csproj">
-      <Project>{EB55B271-D2E4-F042-BB31-097A631D21D0}</Project>
+      <Project>{F0F36CD0-4944-4E45-D1C6-194CD89F2553}</Project>
       <Name>Unity.InternalAPIEngineBridge.001</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Runtime.csproj">
-      <Project>{A4F491EB-6BDD-CF92-1631-C57698E0EBB4}</Project>
+      <Project>{B3B71010-6A9F-E676-74EB-E313DA3F962E}</Project>
       <Name>Unity.2D.Animation.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

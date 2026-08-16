@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{02E15B17-0900-26BB-8044-BC59BDF5A9F2}</ProjectGuid>
+    <ProjectGuid>{908C6C7D-8F2A-24FB-19AB-136DF9DF7A37}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.PerformanceTesting.Editor</AssemblyName>
@@ -1087,7 +1087,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.PerformanceTesting.csproj">
-      <Project>{00291AE2-94BC-6AEF-3268-7618A91F81D0}</Project>
+      <Project>{D63815D4-9BCB-A255-34B7-3F746A133652}</Project>
       <Name>Unity.PerformanceTesting</Name>
     </ProjectReference>
   </ItemGroup>

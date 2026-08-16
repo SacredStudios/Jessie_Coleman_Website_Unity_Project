@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CEACB41D-0427-4320-AFC9-2ADE7AFFC8F6}</ProjectGuid>
+    <ProjectGuid>{8F5CBAE7-CA48-CF11-0AEA-E99075CE907C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AI.Navigation</AssemblyName>

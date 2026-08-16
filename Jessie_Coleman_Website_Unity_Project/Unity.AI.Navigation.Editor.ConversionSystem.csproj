@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{66C8C748-B391-4363-9431-DFDDDBBF1665}</ProjectGuid>
+    <ProjectGuid>{0D533E18-D24D-8C6F-A3D7-6861052742ED}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AI.Navigation.Editor.ConversionSystem</AssemblyName>
