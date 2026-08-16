@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 433a7c053374a344bac6dcf7a807cf74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6334801044990513170
+    second: LogoRolle (3)_0
+  - first:
+      213: 5316675964287109756
+    second: LogoRolle (3)_1
+  - first:
+      213: -7477914380817877739
+    second: LogoRolle (3)_2
+  - first:
+      213: 6068647966294586706
+    second: LogoRolle (3)_3
+  - first:
+      213: -2031662005234631365
+    second: LogoRolle (3)_4
+  - first:
+      213: 8915122795785607437
+    second: LogoRolle (3)_5
+  - first:
+      213: 6579222574908638409
+    second: LogoRolle (3)_6
+  - first:
+      213: -1810452938446361653
+    second: LogoRolle (3)_7
+  - first:
+      213: -5040405670919840673
+    second: LogoRolle (3)_8
+  - first:
+      213: -5857794475614981968
+    second: LogoRolle (3)_9
+  - first:
+      213: -548949599785284160
+    second: LogoRolle (3)_10
+  - first:
+      213: 2562018288430127304
+    second: LogoRolle (3)_11
+  - first:
+      213: -1429803179529497265
+    second: LogoRolle (3)_12
+  - first:
+      213: 7265176976136054817
+    second: LogoRolle (3)_13
+  - first:
+      213: -1397880924249482047
+    second: LogoRolle (3)_14
+  - first:
+      213: -4581127025513972598
+    second: LogoRolle (3)_15
+  - first:
+      213: -8619773268308134352
+    second: LogoRolle (3)_16
+  - first:
+      213: 673234335979230430
+    second: LogoRolle (3)_17
+  - first:
+      213: 7627647303114768063
+    second: LogoRolle (3)_18
+  - first:
+      213: 2427456285183814593
+    second: LogoRolle (3)_19
+  - first:
+      213: -4476450374187333619
+    second: LogoRolle (3)_20
+  - first:
+      213: -2212018891319895040
+    second: LogoRolle (3)_21
+  - first:
+      213: 2851877706048612087
+    second: LogoRolle (3)_22
+  - first:
+      213: 5165556011205886138
+    second: LogoRolle (3)_23
+  - first:
+      213: -3450981237635468777
+    second: LogoRolle (3)_24
+  - first:
+      213: 8257584709576289301
+    second: LogoRolle (3)_25
+  - first:
+      213: 3894152206097044353
+    second: LogoRolle (3)_26
+  - first:
+      213: -7283804827496443349
+    second: LogoRolle (3)_27
+  - first:
+      213: 7503676467659438779
+    second: LogoRolle (3)_28
+  - first:
+      213: -6822538614075211931
+    second: LogoRolle (3)_29
+  - first:
+      213: 4627946703073904684
+    second: LogoRolle (3)_30
+  - first:
+      213: -3936961960630894988
+    second: LogoRolle (3)_31
+  - first:
+      213: 5722607746834000189
+    second: LogoRolle (3)_32
+  - first:
+      213: 549849874458994753
+    second: LogoRolle (3)_33
+  - first:
+      213: -7039291473809118458
+    second: LogoRolle (3)_34
+  - first:
+      213: -6487454041770295010
+    second: LogoRolle (3)_35
+  - first:
+      213: -5569546516482272702
+    second: LogoRolle (3)_36
+  - first:
+      213: -720620938571748805
+    second: LogoRolle (3)_37
+  - first:
+      213: 5719317092527280575
+    second: LogoRolle (3)_38
+  - first:
+      213: 6586772548625835656
+    second: LogoRolle (3)_39
+  - first:
+      213: 3314150655690643425
+    second: LogoRolle (3)_40
+  - first:
+      213: 8573225148837982343
+    second: LogoRolle (3)_41
+  - first:
+      213: 4961881426172403554
+    second: LogoRolle (3)_42
+  - first:
+      213: -1498483227221655445
+    second: LogoRolle (3)_43
+  - first:
+      213: 2742632047214062929
+    second: LogoRolle (3)_44
+  - first:
+      213: 8975804833152724312
+    second: LogoRolle (3)_45
+  - first:
+      213: -5692015328959499731
+    second: LogoRolle (3)_46
+  - first:
+      213: 6725102710682646428
+    second: LogoRolle (3)_47
+  - first:
+      213: 2120207403829859886
+    second: LogoRolle (3)_48
+  - first:
+      213: 259749873701264613
+    second: LogoRolle (3)_49
+  - first:
+      213: 7279458522475992939
+    second: LogoRolle (3)_50
+  - first:
+      213: -2441326596231550941
+    second: LogoRolle (3)_51
+  - first:
+      213: 690139679740284766
+    second: LogoRolle (3)_52
+  - first:
+      213: -3500638604485872520
+    second: LogoRolle (3)_53
+  - first:
+      213: 8243225783022709872
+    second: LogoRolle (3)_54
+  - first:
+      213: 5372709851066176375
+    second: LogoRolle (3)_55
+  - first:
+      213: -5432450214072068037
+    second: LogoRolle (3)_56
+  - first:
+      213: 3262367568293049146
+    second: LogoRolle (3)_57
+  - first:
+      213: 1250065528038582057
+    second: LogoRolle (3)_58
+  - first:
+      213: 2254404998040874739
+    second: LogoRolle (3)_59
+  - first:
+      213: 8615973360420985325
+    second: LogoRolle (3)_60
+  - first:
+      213: 6837062757797940395
+    second: LogoRolle (3)_61
+  - first:
+      213: 1738555128064051534
+    second: LogoRolle (3)_62
+  - first:
+      213: 3590743695835637871
+    second: LogoRolle (3)_63
+  - first:
+      213: 1997954932343003188
+    second: LogoRolle (3)_64
+  - first:
+      213: 5778652114520495538
+    second: LogoRolle (3)_65
+  - first:
+      213: -1410476943452015527
+    second: LogoRolle (3)_66
+  - first:
+      213: 1093502208039951148
+    second: LogoRolle (3)_67
+  - first:
+      213: -5164380556881547952
+    second: LogoRolle (3)_68
+  - first:
+      213: 2570375008302428988
+    second: LogoRolle (3)_69
+  - first:
+      213: 6228367483397907033
+    second: LogoRolle (3)_70
+  - first:
+      213: -3495008887807041165
+    second: LogoRolle (3)_71
+  - first:
+      213: -8279984724640655778
+    second: LogoRolle (3)_72
+  - first:
+      213: -6068542659502450051
+    second: LogoRolle (3)_73
+  - first:
+      213: -553576505565304659
+    second: LogoRolle (3)_74
+  - first:
+      213: -3587773786225197765
+    second: LogoRolle (3)_75
+  - first:
+      213: 1246641713883222638
+    second: LogoRolle (3)_76
+  - first:
+      213: 884115932003978006
+    second: LogoRolle (3)_77
+  - first:
+      213: 6676821445981469447
+    second: LogoRolle (3)_78
+  - first:
+      213: 936323485565765109
+    second: LogoRolle (3)_79
+  - first:
+      213: -4156596681961528184
+    second: LogoRolle (3)_80
+  - first:
+      213: -4329967540575607088
+    second: LogoRolle (3)_81
+  - first:
+      213: -6701324833136957874
+    second: LogoRolle (3)_82
+  - first:
+      213: -4076652690436334708
+    second: LogoRolle (3)_83
+  - first:
+      213: 328472821409427552
+    second: LogoRolle (3)_84
+  - first:
+      213: 3118072981369259779
+    second: LogoRolle (3)_85
+  - first:
+      213: 2576315182911618173
+    second: LogoRolle (3)_86
+  - first:
+      213: -7565660042311706537
+    second: LogoRolle (3)_87
+  - first:
+      213: 3663426214999115992
+    second: LogoRolle (3)_88
+  - first:
+      213: 5758834726802050018
+    second: LogoRolle (3)_89
+  - first:
+      213: -2147536855666393883
+    second: LogoRolle (3)_90
+  - first:
+      213: -5044215058451250941
+    second: LogoRolle (3)_91
+  - first:
+      213: 6878097953659551260
+    second: LogoRolle (3)_92
+  - first:
+      213: -7286923811633580325
+    second: LogoRolle (3)_93
+  - first:
+      213: 6791494955548728422
+    second: LogoRolle (3)_94
+  - first:
+      213: -4540917358945764818
+    second: LogoRolle (3)_95
+  - first:
+      213: 7456955435592555418
+    second: LogoRolle (3)_96
+  - first:
+      213: 288242358049436353
+    second: LogoRolle (3)_97
+  - first:
+      213: -1914025226742634242
+    second: LogoRolle (3)_98
+  - first:
+      213: 762597903165652796
+    second: LogoRolle (3)_99
+  - first:
+      213: -6543113112588992749
+    second: LogoRolle (3)_100
+  - first:
+      213: 6195186648599617372
+    second: LogoRolle (3)_101
+  - first:
+      213: 1340121443977477298
+    second: LogoRolle (3)_102
+  - first:
+      213: -2164677090749259611
+    second: LogoRolle (3)_103
+  - first:
+      213: -1810330435172884848
+    second: LogoRolle (3)_104
+  - first:
+      213: -4208537273954092075
+    second: LogoRolle (3)_105
+  - first:
+      213: -370902229960894660
+    second: LogoRolle (3)_106
+  - first:
+      213: 1775907624402316479
+    second: LogoRolle (3)_107
+  - first:
+      213: 3024865882960954803
+    second: LogoRolle (3)_108
+  - first:
+      213: -2850163777448656035
+    second: LogoRolle (3)_109
+  - first:
+      213: -8372115518592981118
+    second: LogoRolle (3)_110
+  - first:
+      213: 6982518289248655836
+    second: LogoRolle (3)_111
+  - first:
+      213: -4094588078476150101
+    second: LogoRolle (3)_112
+  - first:
+      213: 8557193414436350357
+    second: LogoRolle (3)_113
+  - first:
+      213: 703295782122079349
+    second: LogoRolle (3)_114
+  - first:
+      213: 8625524460544003151
+    second: LogoRolle (3)_115
+  - first:
+      213: -1810423183246900995
+    second: LogoRolle (3)_116
+  - first:
+      213: -4138982783715057399
+    second: LogoRolle (3)_117
+  - first:
+      213: 4770737912187047720
+    second: LogoRolle (3)_118
+  - first:
+      213: 7854008858049476860
+    second: LogoRolle (3)_119
+  - first:
+      213: -5144202863443239934
+    second: LogoRolle (3)_120
+  - first:
+      213: 5924411904250292118
+    second: LogoRolle (3)_121
+  - first:
+      213: 4981651974902546324
+    second: LogoRolle (3)_122
+  - first:
+      213: 2502690696888584339
+    second: LogoRolle (3)_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LogoRolle (3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 6000
+        height: 3260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210de69bcfbb9e750800000000000000
+      internalID: 6334801044990513170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_1
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 3763
+        width: 170
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac03dde90a8c940800000000000000
+      internalID: 5316675964287109756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_2
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 3766
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b0968d7c193890800000000000000
+      internalID: -7477914380817877739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_3
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 3756
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255b2e91c2b283450800000000000000
+      internalID: 6068647966294586706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_4
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3760
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df452ab261ec3e0800000000000000
+      internalID: -2031662005234631365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_5
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3763
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d9cbc2f0e8bb70800000000000000
+      internalID: 8915122795785607437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_6
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 3763
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c409abd2181e4b50800000000000000
+      internalID: 6579222574908638409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_7
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 3762
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcba75905aaffd6e0800000000000000
+      internalID: -1810452938446361653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_8
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 3766
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c55fc5fb1ec0ab0800000000000000
+      internalID: -5040405670919840673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_9
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 3756
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b039b9d5fee4bea0800000000000000
+      internalID: -5857794475614981968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_10
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 3774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd84395f3db168f0800000000000000
+      internalID: -548949599785284160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_11
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 3755
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c89ee52f0e1e8320800000000000000
+      internalID: 2562018288430127304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_12
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 3763
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459b696591582ce0800000000000000
+      internalID: -1429803179529497265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_13
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 3763
+        width: 179
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128afec97f713d460800000000000000
+      internalID: 7265176976136054817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_14
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 3766
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc90d7a4bab99ce0800000000000000
+      internalID: -1397880924249482047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_15
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 3774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c3c4dfd319c60c0800000000000000
+      internalID: -4581127025513972598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_16
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3755
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f51ac1e9606880800000000000000
+      internalID: -8619773268308134352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_17
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 3763
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed453a6cf0fc75900800000000000000
+      internalID: 673234335979230430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_18
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe3f162fc8dad960800000000000000
+      internalID: 7627647303114768063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_19
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 3755
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbab2251ae00b120800000000000000
+      internalID: 2427456285183814593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_20
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3768
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0846e71a1470e1c0800000000000000
+      internalID: -4476450374187333619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_21
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3763
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9c62c9845d41e0800000000000000
+      internalID: -2212018891319895040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_22
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 3763
+        width: 190
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f622ebe9a7e39720800000000000000
+      internalID: 2851877706048612087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_23
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 3770
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab08f4be2ddbfa740800000000000000
+      internalID: 5165556011205886138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_24
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 3766
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712333439d6ab10d0800000000000000
+      internalID: -3450981237635468777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_25
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 3756
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cedf4fa85d89270800000000000000
+      internalID: 8257584709576289301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_26
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3749
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d7b1acceca0630800000000000000
+      internalID: 3894152206097044353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_27
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 3748
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b229cc3c91abaea90800000000000000
+      internalID: -7283804827496443349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_28
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 3749
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba7c4cbdf9622860800000000000000
+      internalID: 7503676467659438779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_29
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 3755
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f39a127497151a0800000000000000
+      internalID: -6822538614075211931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_30
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3748
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28092ca105c93040800000000000000
+      internalID: 4627946703073904684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_31
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 3749
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ebe5aa4f91d59c0800000000000000
+      internalID: -3936961960630894988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_32
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 3749
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3960f21d69ca6f40800000000000000
+      internalID: 5722607746834000189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_33
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3749
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148ebee2c8571a700800000000000000
+      internalID: 549849874458994753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_34
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 3756
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60beb2943b96f4e90800000000000000
+      internalID: -7039291473809118458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_35
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3740
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e110c97cbeee7f5a0800000000000000
+      internalID: -6487454041770295010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_36
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 3747
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2425f05b3fef4b2b0800000000000000
+      internalID: -5569546516482272702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_37
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 3746
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae8ba0317dff5f0800000000000000
+      internalID: -720620938571748805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_38
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 3736
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb198e9e7981f5f40800000000000000
+      internalID: 5719317092527280575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_39
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 3747
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88623291cbae86b50800000000000000
+      internalID: 6586772548625835656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_40
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 3741
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e79194567a3efd20800000000000000
+      internalID: 3314150655690643425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_41
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 3746
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780fee799d63af670800000000000000
+      internalID: 8573225148837982343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_42
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3742
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5d903ed42cd440800000000000000
+      internalID: 4961881426172403554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_43
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 3739
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b608293b171543be0800000000000000
+      internalID: -1498483227221655445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_44
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3744
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15debcbd059cf0620800000000000000
+      internalID: 2742632047214062929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_45
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3746
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d6d4d90f6709c70800000000000000
+      internalID: 8975804833152724312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_46
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 3742
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227a454736e101b0800000000000000
+      internalID: -5692015328959499731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_47
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 3748
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977144c84d545d50800000000000000
+      internalID: 6725102710682646428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_48
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 3747
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269e63866d7c6d10800000000000000
+      internalID: 2120207403829859886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_49
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3745
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec9a684221da9300800000000000000
+      internalID: 259749873701264613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_50
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 3740
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b671f5d35f4d50560800000000000000
+      internalID: 7279458522475992939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_51
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 3740
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a7ea356aae1ed0800000000000000
+      internalID: -2441326596231550941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_52
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3747
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f4258d16ed39900800000000000000
+      internalID: 690139679740284766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_53
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 3655
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874b9948cbb3b6fc0800000000000000
+      internalID: -3500638604485872520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_54
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3737
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ce868dc22d56270800000000000000
+      internalID: 8243225783022709872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_55
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 3738
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7739a0ac423bf8a40800000000000000
+      internalID: 5372709851066176375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_56
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 3731
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b385d3a005f0c94b0800000000000000
+      internalID: -5432450214072068037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_57
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 3734
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33bcd2c402464d20800000000000000
+      internalID: 3262367568293049146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_58
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 3732
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92763b089ff195110800000000000000
+      internalID: 1250065528038582057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_59
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 3736
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6710c661494f10800000000000000
+      internalID: 2254404998040874739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_60
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3736
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91f163f16129770800000000000000
+      internalID: 8615973360420985325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_61
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 3734
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac49999a5022ee50800000000000000
+      internalID: 6837062757797940395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_62
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3740
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4901be7da6902810800000000000000
+      internalID: 1738555128064051534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_63
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 3739
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a1c5ed52e4d130800000000000000
+      internalID: 3590743695835637871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_64
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3733
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385b83ec692abb10800000000000000
+      internalID: 1997954932343003188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_65
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 3732
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5dd864b75e13050800000000000000
+      internalID: 5778652114520495538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_66
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 3731
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954f9a561bafc6ce0800000000000000
+      internalID: -1410476943452015527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_67
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 3732
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b935fe676ec2f00800000000000000
+      internalID: 1093502208039951148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_68
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 3736
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d242ede3f6458b0800000000000000
+      internalID: -5164380556881547952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_69
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 3734
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33786d937ecba320800000000000000
+      internalID: 2570375008302428988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_70
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3732
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952a6821a3b9f6650800000000000000
+      internalID: 6228367483397907033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_71
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3736
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ad631feb3f7fc0800000000000000
+      internalID: -3495008887807041165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_72
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 3731
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56122e13c5971d80800000000000000
+      internalID: -8279984724640655778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_73
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3733
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a5d0c8a9438cba0800000000000000
+      internalID: -6068542659502450051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_74
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 3739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da827c5e91d4158f0800000000000000
+      internalID: -553576505565304659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_75
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3734
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3db69110caa53ec0800000000000000
+      internalID: -3587773786225197765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_76
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 3736
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629136a806fc4110800000000000000
+      internalID: 1246641713883222638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_77
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3738
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b4c5381c2054c00800000000000000
+      internalID: 884115932003978006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_78
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3731
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b7f64dab5d8ac50800000000000000
+      internalID: 6676821445981469447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_79
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 3732
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5c000df3d7efc00800000000000000
+      internalID: 936323485565765109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_80
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3739
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ad11275dc056c0800000000000000
+      internalID: -4156596681961528184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_81
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3737
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6e407867dd8e3c0800000000000000
+      internalID: -4329967540575607088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_82
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3730
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e462e54c19c1003a0800000000000000
+      internalID: -6701324833136957874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_83
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 3736
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bd6e12af1dc67c0800000000000000
+      internalID: -4076652690436334708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_84
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 3736
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060ba7e6a48fe8400800000000000000
+      internalID: 328472821409427552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_85
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 3731
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30702463bde954b20800000000000000
+      internalID: 3118072981369259779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_86
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3734
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c74ea4209e0c320800000000000000
+      internalID: 2576315182911618173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_87
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3739
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758d4aea640610790800000000000000
+      internalID: -7565660042311706537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_88
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 3734
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d840ed9bba17d230800000000000000
+      internalID: 3663426214999115992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_89
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 3731
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb48332cad7bef40800000000000000
+      internalID: 5758834726802050018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_90
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 3736
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf1ff9b9a6232e0800000000000000
+      internalID: -2147536855666393883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_91
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3736
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301465631295ff9b0800000000000000
+      internalID: -5044215058451250941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_92
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 3734
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ef73aa5a9e37f50800000000000000
+      internalID: 6878097953659551260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_93
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 3741
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6be3ea665afda90800000000000000
+      internalID: -7286923811633580325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_94
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 3730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd65fddac304e50800000000000000
+      internalID: 6791494955548728422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_95
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 3731
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af1a988bb6bf0c0800000000000000
+      internalID: -4540917358945764818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_96
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 3724
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b9964c57d6c7760800000000000000
+      internalID: 7456955435592555418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_97
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3730
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2f1c0c5ea000400800000000000000
+      internalID: 288242358049436353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_98
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3726
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86edc72340075e0800000000000000
+      internalID: -1914025226742634242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_99
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 3717
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f75a4a0ca459a00800000000000000
+      internalID: 762597903165652796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_100
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3726
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fbeee7a413235a0800000000000000
+      internalID: -6543113112588992749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_101
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3726
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fd503fe69b9f550800000000000000
+      internalID: 6195186648599617372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_102
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 3731
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc39206a51199210800000000000000
+      internalID: 1340121443977477298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_103
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3725
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0e678a7a585f1e0800000000000000
+      internalID: -2164677090749259611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_104
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3731
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e117d8f0a60e6e0800000000000000
+      internalID: -1810330435172884848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_105
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3716
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbb9f9a5a54895c0800000000000000
+      internalID: -4208537273954092075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_106
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 3730
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37d7c0136a4adaf0800000000000000
+      internalID: -370902229960894660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_107
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 3730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc6862439a45a810800000000000000
+      internalID: 1775907624402316479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_108
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3731
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5061f7e7b7af920800000000000000
+      internalID: 3024865882960954803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_109
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 3731
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53cc7d252f2278d0800000000000000
+      internalID: -2850163777448656035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_110
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287eabf0b4540db80800000000000000
+      internalID: -8372115518592981118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_111
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 3731
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9955c9363e6e060800000000000000
+      internalID: 6982518289248655836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_112
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 3727
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa31e036d91d27c0800000000000000
+      internalID: -4094588078476150101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_113
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 3716
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5996acd821241c670800000000000000
+      internalID: 8557193414436350357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_114
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3725
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ca61a9cb92c900800000000000000
+      internalID: 703295782122079349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_115
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 3716
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c0b200cc404b770800000000000000
+      internalID: 8625524460544003151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_116
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3725
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0cf65f4b510e6e0800000000000000
+      internalID: -1810423183246900995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_117
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3716
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901e43566116f86c0800000000000000
+      internalID: -4138982783715057399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_118
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 3726
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc56ccad0153240800000000000000
+      internalID: 4770737912187047720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_119
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 3709
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf87fcea17b0ffc60800000000000000
+      internalID: 7854008858049476860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_120
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 3717
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1be730ce1c98b0800000000000000
+      internalID: -5144202863443239934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_121
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 3725
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6972fefec3db73250800000000000000
+      internalID: 5924411904250292118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_122
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 3716
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f70b6c312622540800000000000000
+      internalID: 4981651974902546324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogoRolle (3)_123
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 3716
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39808b2dde75bb220800000000000000
+      internalID: 2502690696888584339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LogoRolle (3)_0: 6334801044990513170
+      LogoRolle (3)_1: 5316675964287109756
+      LogoRolle (3)_10: -548949599785284160
+      LogoRolle (3)_100: -6543113112588992749
+      LogoRolle (3)_101: 6195186648599617372
+      LogoRolle (3)_102: 1340121443977477298
+      LogoRolle (3)_103: -2164677090749259611
+      LogoRolle (3)_104: -1810330435172884848
+      LogoRolle (3)_105: -4208537273954092075
+      LogoRolle (3)_106: -370902229960894660
+      LogoRolle (3)_107: 1775907624402316479
+      LogoRolle (3)_108: 3024865882960954803
+      LogoRolle (3)_109: -2850163777448656035
+      LogoRolle (3)_11: 2562018288430127304
+      LogoRolle (3)_110: -8372115518592981118
+      LogoRolle (3)_111: 6982518289248655836
+      LogoRolle (3)_112: -4094588078476150101
+      LogoRolle (3)_113: 8557193414436350357
+      LogoRolle (3)_114: 703295782122079349
+      LogoRolle (3)_115: 8625524460544003151
+      LogoRolle (3)_116: -1810423183246900995
+      LogoRolle (3)_117: -4138982783715057399
+      LogoRolle (3)_118: 4770737912187047720
+      LogoRolle (3)_119: 7854008858049476860
+      LogoRolle (3)_12: -1429803179529497265
+      LogoRolle (3)_120: -5144202863443239934
+      LogoRolle (3)_121: 5924411904250292118
+      LogoRolle (3)_122: 4981651974902546324
+      LogoRolle (3)_123: 2502690696888584339
+      LogoRolle (3)_13: 7265176976136054817
+      LogoRolle (3)_14: -1397880924249482047
+      LogoRolle (3)_15: -4581127025513972598
+      LogoRolle (3)_16: -8619773268308134352
+      LogoRolle (3)_17: 673234335979230430
+      LogoRolle (3)_18: 7627647303114768063
+      LogoRolle (3)_19: 2427456285183814593
+      LogoRolle (3)_2: -7477914380817877739
+      LogoRolle (3)_20: -4476450374187333619
+      LogoRolle (3)_21: -2212018891319895040
+      LogoRolle (3)_22: 2851877706048612087
+      LogoRolle (3)_23: 5165556011205886138
+      LogoRolle (3)_24: -3450981237635468777
+      LogoRolle (3)_25: 8257584709576289301
+      LogoRolle (3)_26: 3894152206097044353
+      LogoRolle (3)_27: -7283804827496443349
+      LogoRolle (3)_28: 7503676467659438779
+      LogoRolle (3)_29: -6822538614075211931
+      LogoRolle (3)_3: 6068647966294586706
+      LogoRolle (3)_30: 4627946703073904684
+      LogoRolle (3)_31: -3936961960630894988
+      LogoRolle (3)_32: 5722607746834000189
+      LogoRolle (3)_33: 549849874458994753
+      LogoRolle (3)_34: -7039291473809118458
+      LogoRolle (3)_35: -6487454041770295010
+      LogoRolle (3)_36: -5569546516482272702
+      LogoRolle (3)_37: -720620938571748805
+      LogoRolle (3)_38: 5719317092527280575
+      LogoRolle (3)_39: 6586772548625835656
+      LogoRolle (3)_4: -2031662005234631365
+      LogoRolle (3)_40: 3314150655690643425
+      LogoRolle (3)_41: 8573225148837982343
+      LogoRolle (3)_42: 4961881426172403554
+      LogoRolle (3)_43: -1498483227221655445
+      LogoRolle (3)_44: 2742632047214062929
+      LogoRolle (3)_45: 8975804833152724312
+      LogoRolle (3)_46: -5692015328959499731
+      LogoRolle (3)_47: 6725102710682646428
+      LogoRolle (3)_48: 2120207403829859886
+      LogoRolle (3)_49: 259749873701264613
+      LogoRolle (3)_5: 8915122795785607437
+      LogoRolle (3)_50: 7279458522475992939
+      LogoRolle (3)_51: -2441326596231550941
+      LogoRolle (3)_52: 690139679740284766
+      LogoRolle (3)_53: -3500638604485872520
+      LogoRolle (3)_54: 8243225783022709872
+      LogoRolle (3)_55: 5372709851066176375
+      LogoRolle (3)_56: -5432450214072068037
+      LogoRolle (3)_57: 3262367568293049146
+      LogoRolle (3)_58: 1250065528038582057
+      LogoRolle (3)_59: 2254404998040874739
+      LogoRolle (3)_6: 6579222574908638409
+      LogoRolle (3)_60: 8615973360420985325
+      LogoRolle (3)_61: 6837062757797940395
+      LogoRolle (3)_62: 1738555128064051534
+      LogoRolle (3)_63: 3590743695835637871
+      LogoRolle (3)_64: 1997954932343003188
+      LogoRolle (3)_65: 5778652114520495538
+      LogoRolle (3)_66: -1410476943452015527
+      LogoRolle (3)_67: 1093502208039951148
+      LogoRolle (3)_68: -5164380556881547952
+      LogoRolle (3)_69: 2570375008302428988
+      LogoRolle (3)_7: -1810452938446361653
+      LogoRolle (3)_70: 6228367483397907033
+      LogoRolle (3)_71: -3495008887807041165
+      LogoRolle (3)_72: -8279984724640655778
+      LogoRolle (3)_73: -6068542659502450051
+      LogoRolle (3)_74: -553576505565304659
+      LogoRolle (3)_75: -3587773786225197765
+      LogoRolle (3)_76: 1246641713883222638
+      LogoRolle (3)_77: 884115932003978006
+      LogoRolle (3)_78: 6676821445981469447
+      LogoRolle (3)_79: 936323485565765109
+      LogoRolle (3)_8: -5040405670919840673
+      LogoRolle (3)_80: -4156596681961528184
+      LogoRolle (3)_81: -4329967540575607088
+      LogoRolle (3)_82: -6701324833136957874
+      LogoRolle (3)_83: -4076652690436334708
+      LogoRolle (3)_84: 328472821409427552
+      LogoRolle (3)_85: 3118072981369259779
+      LogoRolle (3)_86: 2576315182911618173
+      LogoRolle (3)_87: -7565660042311706537
+      LogoRolle (3)_88: 3663426214999115992
+      LogoRolle (3)_89: 5758834726802050018
+      LogoRolle (3)_9: -5857794475614981968
+      LogoRolle (3)_90: -2147536855666393883
+      LogoRolle (3)_91: -5044215058451250941
+      LogoRolle (3)_92: 6878097953659551260
+      LogoRolle (3)_93: -7286923811633580325
+      LogoRolle (3)_94: 6791494955548728422
+      LogoRolle (3)_95: -4540917358945764818
+      LogoRolle (3)_96: 7456955435592555418
+      LogoRolle (3)_97: 288242358049436353
+      LogoRolle (3)_98: -1914025226742634242
+      LogoRolle (3)_99: 762597903165652796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

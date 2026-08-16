@@ -51,7 +51,7 @@ public class NPC : MonoBehaviour
     }
     IEnumerator MoveLeft(Vector3 targetPos, float inputx, float inputy)
     {
-        GetComponent<SpriteRenderer>().sortingOrder = (int)(-100 * transform.position.y);
+        
 
         animator.SetFloat("moveX", -1);
         animator.SetFloat("moveY", 0);
@@ -73,8 +73,7 @@ public class NPC : MonoBehaviour
     }
 
     IEnumerator MoveRight(Vector3 targetPos, float inputx, float inputy)
-    {
-        GetComponent<SpriteRenderer>().sortingOrder = (int)(-100 * transform.position.y); //for walking up and down, you need to set this within the loop
+    {     
         var startingposition = transform.position;
         animator.SetFloat("moveX", 1);
         animator.SetFloat("moveY", 0);

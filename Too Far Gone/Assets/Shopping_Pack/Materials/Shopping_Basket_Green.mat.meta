@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 958ab4e8cd1e006458f76113059dc5f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259260
+  packageName: Shopping Pack
+  packageVersion: 1.0
+  assetPath: Assets/Shopping_Pack/Materials/Shopping_Basket_Green.mat
+  uploadId: 675404

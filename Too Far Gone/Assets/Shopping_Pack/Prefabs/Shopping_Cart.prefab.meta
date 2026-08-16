@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55f3c11529d9d4443aa3c6d6b126f383
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259260
+  packageName: Shopping Pack
+  packageVersion: 1.0
+  assetPath: Assets/Shopping_Pack/Prefabs/Shopping_Cart.prefab
+  uploadId: 675404

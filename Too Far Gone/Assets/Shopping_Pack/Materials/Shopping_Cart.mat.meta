@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5752cb5af2114654c82d4f0ebda7e5ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259260
+  packageName: Shopping Pack
+  packageVersion: 1.0
+  assetPath: Assets/Shopping_Pack/Materials/Shopping_Cart.mat
+  uploadId: 675404
